@@ -18,12 +18,11 @@ A tool for drawing clients, giving information, organizing work, and fostering r
 * Address any issues with your three buttons (our story, the team, and meet us):
   * When you click on it, it should take you to the corresponding page where you may check more details.
 
-
 ## LESSONS LEARNED:
-* Debuge code,
-* learn to structure your work.
-* Learn to nest one html page into another.
-* Learn to debuge code.
+
+* Get proficient at organizing your work so you can spot problems fast.
+* Acquire proficiency in nesting HTML pages.
+* Gain knowledge in debugging code.
 
 ## SIMILAR PROJECT:
 
