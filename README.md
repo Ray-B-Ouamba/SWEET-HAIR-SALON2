@@ -17,7 +17,10 @@ A tool for drawing clients, giving information, organizing work, and fostering r
 * fixe the problem with your 3 buttons (our story; the team and meet us): It should redirectly to the page correspond when you click on it.
 
 ## LESSONS LEARNED:
-* Utilize CSS flex-box property. 
+* Debuge code,
+* learn to structure your work.
+* Learn to nest one html page into another.
+* Learn to debuge code.
 
 ## SIMILAR PROJECT:
 
