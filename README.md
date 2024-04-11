@@ -8,6 +8,7 @@ A tool for drawing clients, giving information, organizing work, and fostering r
 * HTML,
 * CSS.
 * JAVASCRIPT
+* SASS
 
 ## OPTIMIZATIONS:
 * Add some JavaScript to make it more interactive.
