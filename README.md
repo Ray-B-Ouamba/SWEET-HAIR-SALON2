@@ -11,10 +11,13 @@ A tool for drawing clients, giving information, organizing work, and fostering r
 * SASS
 
 ## OPTIMIZATIONS:
-* for each html page use a different background image.
-* Add if you want the place where your hair salon is located.
-* Add if you want where your story started
-* fixe the problem with your 3 buttons (our story; the team and meet us): It should redirectly to the page correspond when you click on it.
+
+* Use a new background image for every HTML page.
+* Include the address of your hair business if desired.
+* Include the beginning of your story if you'd like.
+* Address any issues with your three buttons (our story, the team, and meet us):
+  * When you click on it, it should take you to the corresponding page where you may check more details.
+
 
 ## LESSONS LEARNED:
 * Debuge code,
