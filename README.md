@@ -7,6 +7,7 @@ A tool for drawing clients, giving information, organizing work, and fostering r
 **TECH USED:** 
 * HTML,
 * CSS.
+* JAVASCRIPT
 
 ## OPTIMIZATIONS:
 * Add some JavaScript to make it more interactive.
