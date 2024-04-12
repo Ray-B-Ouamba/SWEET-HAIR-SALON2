@@ -1,6 +1,6 @@
 # SWEET HAIR-SALON 2
 
-A tool for drawing clients, giving information, organizing work, and fostering relationships with the public that visits the salon.  ro
+A tool for drawing clients, giving information, organizing work, and fostering relationships with the public that visits the salon. 
 
 **PROJECT LINK:**  https://ray-b-ouamba.github.io/SWEET-HAIR-SALON2/
 
