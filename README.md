@@ -15,8 +15,7 @@ A tool for drawing clients, giving information, organizing work, and fostering r
 * You may cnsider to add background image instead of just a backgrounf color in your "elemets.html" page.
 * Include the address of your hair business if desired.
 * Include the beginning of your story if you'd like.
-* Address any issues with your three buttons (our story, the team, and meet us):
-  * When you click on it, it should take you to the corresponding page where you may check more details.
+  
 
 ## LESSONS LEARNED:
 
