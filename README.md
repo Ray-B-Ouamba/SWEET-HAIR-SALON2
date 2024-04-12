@@ -12,7 +12,7 @@ A tool for drawing clients, giving information, organizing work, and fostering r
 
 ## OPTIMIZATIONS:
 
-* Use a new background image for every HTML page.
+* You may cnsider to add background image instead of just a backgrounf color in your "elemets.html" page.
 * Include the address of your hair business if desired.
 * Include the beginning of your story if you'd like.
 * Address any issues with your three buttons (our story, the team, and meet us):
